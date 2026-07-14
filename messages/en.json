@@ -354,13 +354,14 @@
     "detailView": {
       "tabs": {
         "details": "Details",
+        "tags": "Tags",
         "activity": "Activity",
         "notes": "Notes",
         "custom": "Custom Fields",
         "deals": "Deals",
-      "noTags": "No tags",
-      "noDeals": "No deals",
-      "addNotePlaceholder": "Add a note..."
+        "noTags": "No tags",
+        "noDeals": "No deals",
+        "addNotePlaceholder": "Add a note..."
       },
       "actions": {
         "edit": "Edit",
